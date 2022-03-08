@@ -9,3 +9,8 @@ And here is a line added on the remote
 Another line from local
 
 A remote change
+
+Remote changes
+
+Another remote change
+
